@@ -1,0 +1,11 @@
+/* Apply styles to the entire body (background and text) */
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Style the headers (H1 and H2) */
+h1, h2 {
+    color: white;
+}
+
